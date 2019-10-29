@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 28-10-2019 16:52:44
+// 29-10-2019 19:04:18
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15722779643269606
+constexpr ::std::int64_t timestamp = 15723722581667741
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB340;
@@ -115,9 +115,9 @@ constexpr ::std::ptrdiff_t dwGameDir = 0x6376F0;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x5222A8C;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xD1FE74;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x590A90;
-constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x524D4F8;
+constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x524D500;
 constexpr ::std::ptrdiff_t dwInput = 0x51580E0;
-constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x8CE0B4;
+constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x8CE244;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xCFAA3C;
 constexpr ::std::ptrdiff_t dwMouseEnable = 0xD005E0;
 constexpr ::std::ptrdiff_t dwMouseEnablePtr = 0xD005B0;
