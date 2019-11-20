@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 20-11-2019 11:53:43
+// 20-11-2019 20:38:55
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15742472230327567
+constexpr ::std::int64_t timestamp = 15742787351140737
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -38,6 +38,7 @@ constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x26A8;
 constexpr ::std::ptrdiff_t m_fAccuracyPenalty = 0x3310;
 constexpr ::std::ptrdiff_t m_fFlags = 0x104;
 constexpr ::std::ptrdiff_t m_fRoundStartTime = 0x4C;
+constexpr ::std::ptrdiff_t m_fWarmupPeriodEnd = 0x24;
 constexpr ::std::ptrdiff_t m_flC4Blow = 0x2990;
 constexpr ::std::ptrdiff_t m_flDefuseCountDown = 0x29AC;
 constexpr ::std::ptrdiff_t m_flDefuseLength = 0x29A8;
@@ -69,6 +70,7 @@ constexpr ::std::ptrdiff_t m_iItemDefinitionIndex = 0x2FAA;
 constexpr ::std::ptrdiff_t m_iItemIDHigh = 0x2FC0;
 constexpr ::std::ptrdiff_t m_iMostRecentModelBoneCounter = 0x2690;
 constexpr ::std::ptrdiff_t m_iObserverMode = 0x3374;
+constexpr ::std::ptrdiff_t m_iRoundTime = 0x44;
 constexpr ::std::ptrdiff_t m_iShotsFired = 0xA380;
 constexpr ::std::ptrdiff_t m_iState = 0x3238;
 constexpr ::std::ptrdiff_t m_iTeamNum = 0xF4;

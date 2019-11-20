@@ -1,8 +1,8 @@
 using System;
-// 20-11-2019 11:53:43
+// 20-11-2019 20:38:55
 
 namespace blazedumper {
-    public const Int32 timestamp = 15742472230347682
+    public const Int32 timestamp = 15742787351159663
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -37,6 +37,7 @@ namespace blazedumper {
         public const Int32 m_fAccuracyPenalty = 0x3310;
         public const Int32 m_fFlags = 0x104;
         public const Int32 m_fRoundStartTime = 0x4C;
+        public const Int32 m_fWarmupPeriodEnd = 0x24;
         public const Int32 m_flC4Blow = 0x2990;
         public const Int32 m_flDefuseCountDown = 0x29AC;
         public const Int32 m_flDefuseLength = 0x29A8;
@@ -68,6 +69,7 @@ namespace blazedumper {
         public const Int32 m_iItemIDHigh = 0x2FC0;
         public const Int32 m_iMostRecentModelBoneCounter = 0x2690;
         public const Int32 m_iObserverMode = 0x3374;
+        public const Int32 m_iRoundTime = 0x44;
         public const Int32 m_iShotsFired = 0xA380;
         public const Int32 m_iState = 0x3238;
         public const Int32 m_iTeamNum = 0xF4;
