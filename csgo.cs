@@ -115,7 +115,7 @@ namespace blazedumper {
         public const Int32 dwForceLeft = 0x316CDCC;
         public const Int32 dwForceRight = 0x316CDC0;
         public const Int32 dwGameDir = 0x62F4F0;
-        public const Int32 dwGameRulesProxy = 0x0;
+        public const Int32 dwGameRulesProxy = 0x525217C;
         public const Int32 dwGetAllClasses = 0xD4DC9C;
         public const Int32 dwGlobalVars = 0x588AC8;
         public const Int32 dwGlowObjectManager = 0x527CED0;
