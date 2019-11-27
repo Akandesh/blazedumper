@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 27-11-2019 02:02:27
+// 28-11-2019 00:53:19
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15748165477892084
+constexpr ::std::int64_t timestamp = 15748987992205384
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -97,7 +97,7 @@ constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
 constexpr ::std::ptrdiff_t clientstate_last_outgoing_command = 0x4D24;
 constexpr ::std::ptrdiff_t clientstate_net_channel = 0x9C;
 constexpr ::std::ptrdiff_t convar_name_hash_table = 0x2F0F8;
-constexpr ::std::ptrdiff_t dwClientState = 0x588DC4;
+constexpr ::std::ptrdiff_t dwClientState = 0x587DC4;
 constexpr ::std::ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
 constexpr ::std::ptrdiff_t dwClientState_IsHLTV = 0x4D40;
 constexpr ::std::ptrdiff_t dwClientState_Map = 0x28C;
@@ -114,10 +114,10 @@ constexpr ::std::ptrdiff_t dwForceForward = 0x316CDA4;
 constexpr ::std::ptrdiff_t dwForceJump = 0x51DEE88;
 constexpr ::std::ptrdiff_t dwForceLeft = 0x316CDBC;
 constexpr ::std::ptrdiff_t dwForceRight = 0x316CDB0;
-constexpr ::std::ptrdiff_t dwGameDir = 0x62F4F0;
+constexpr ::std::ptrdiff_t dwGameDir = 0x62E4F0;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x0;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xD4DC9C;
-constexpr ::std::ptrdiff_t dwGlobalVars = 0x588AC8;
+constexpr ::std::ptrdiff_t dwGlobalVars = 0x587AC8;
 constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x527CEB8;
 constexpr ::std::ptrdiff_t dwInput = 0x5186838;
 constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x8F3B94;
@@ -143,7 +143,7 @@ constexpr ::std::ptrdiff_t m_bDormant = 0xED;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x5170698;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD2D2B0;
-constexpr ::std::ptrdiff_t model_ambient_min = 0x58BDE4;
+constexpr ::std::ptrdiff_t model_ambient_min = 0x58ADE4;
 constexpr ::std::ptrdiff_t set_abs_angles = 0x1CEA80;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1CE8C0;
 } // namespace signatures
