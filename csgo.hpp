@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 28-11-2019 00:53:19
+// 28-11-2019 16:36:20
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15748987992205384
+constexpr ::std::int64_t timestamp = 15749553809360020
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -101,7 +101,7 @@ constexpr ::std::ptrdiff_t dwClientState = 0x587DC4;
 constexpr ::std::ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
 constexpr ::std::ptrdiff_t dwClientState_IsHLTV = 0x4D40;
 constexpr ::std::ptrdiff_t dwClientState_Map = 0x28C;
-constexpr ::std::ptrdiff_t dwClientState_MapDirectory = 0x0;
+constexpr ::std::ptrdiff_t dwClientState_MapDirectory = 0x188;
 constexpr ::std::ptrdiff_t dwClientState_MaxPlayer = 0x388;
 constexpr ::std::ptrdiff_t dwClientState_PlayerInfo = 0x52B8;
 constexpr ::std::ptrdiff_t dwClientState_State = 0x108;

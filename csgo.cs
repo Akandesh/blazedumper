@@ -1,8 +1,8 @@
 using System;
-// 28-11-2019 00:53:19
+// 28-11-2019 16:36:20
 
 namespace blazedumper {
-    public const Int32 timestamp = 15748987992233879
+    public const Int32 timestamp = 15749553809380041
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -101,7 +101,7 @@ namespace blazedumper {
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D40;
         public const Int32 dwClientState_Map = 0x28C;
-        public const Int32 dwClientState_MapDirectory = 0x0;
+        public const Int32 dwClientState_MapDirectory = 0x188;
         public const Int32 dwClientState_MaxPlayer = 0x388;
         public const Int32 dwClientState_PlayerInfo = 0x52B8;
         public const Int32 dwClientState_State = 0x108;
