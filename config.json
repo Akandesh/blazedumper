@@ -701,6 +701,11 @@
       "prop": "m_iCompetitiveWins",
       "table": "DT_CSPlayerResource"
     },
+	{
+      "name": "m_iCompetitiveRankType",
+      "prop": "m_iCompetitiveRankType",
+      "table": "DT_CSPlayerResource"
+    },
     {
       "name": "m_iCrosshairId",
       "prop": "m_bHasDefuser",
@@ -957,6 +962,5 @@
 		"prop": "m_nSurvivalTeam",
 		"table": "DT_CSPlayer"
 	}
-	
   ]
 }

@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 28-11-2019 16:36:20
+// 30-11-2019 13:04:50
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15749553809360020
+constexpr ::std::int64_t timestamp = 15751154908114136
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -58,6 +58,7 @@ constexpr ::std::ptrdiff_t m_hOwner = 0x29CC;
 constexpr ::std::ptrdiff_t m_hOwnerEntity = 0x14C;
 constexpr ::std::ptrdiff_t m_iAccountID = 0x2FC8;
 constexpr ::std::ptrdiff_t m_iClip1 = 0x3244;
+constexpr ::std::ptrdiff_t m_iCompetitiveRankType = 0x1C8C;
 constexpr ::std::ptrdiff_t m_iCompetitiveRanking = 0x1A84;
 constexpr ::std::ptrdiff_t m_iCompetitiveWins = 0x1B88;
 constexpr ::std::ptrdiff_t m_iCrosshairId = 0xB3D4;
