@@ -110,7 +110,7 @@
         "dwForceLeft": 51826108,
         "dwForceRight": 51826096,
         "dwGameDir": 6481136,
-        "dwGameRulesProxy": 86319468,
+        "dwGameRulesProxy": 0,
         "dwGetAllClasses": 13950108,
         "dwGlobalVars": 5798600,
         "dwGlowObjectManager": 86494904,
@@ -139,6 +139,7 @@
         "m_pitchClassPtr": 85395096,
         "m_yawClassPtr": 13816496,
         "model_ambient_min": 5811684,
+        "player_resource": 3817881,
         "set_abs_angles": 1895040,
         "set_abs_origin": 1894592
     }
