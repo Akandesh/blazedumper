@@ -1,8 +1,8 @@
 using System;
-// 30-11-2019 14:28:55
+// 03-12-2019 22:36:32
 
 namespace blazedumper {
-    public const Int32 timestamp = 15751205356528606
+    public const Int32 timestamp = 15754089923566691
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -145,7 +145,6 @@ namespace blazedumper {
         public const Int32 m_pitchClassPtr = 0x5170698;
         public const Int32 m_yawClassPtr = 0xD2D2B0;
         public const Int32 model_ambient_min = 0x58ADE4;
-        public const Int32 player_resource = 0x3A4199;
         public const Int32 set_abs_angles = 0x1CEA80;
         public const Int32 set_abs_origin = 0x1CE8C0;
     }

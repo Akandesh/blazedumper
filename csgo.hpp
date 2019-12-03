@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 30-11-2019 14:28:55
+// 03-12-2019 22:36:32
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15751205356514305
+constexpr ::std::int64_t timestamp = 15754089923544095
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -145,7 +145,6 @@ constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x5170698;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD2D2B0;
 constexpr ::std::ptrdiff_t model_ambient_min = 0x58ADE4;
-constexpr ::std::ptrdiff_t player_resource = 0x3A4199;
 constexpr ::std::ptrdiff_t set_abs_angles = 0x1CEA80;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1CE8C0;
 } // namespace signatures
