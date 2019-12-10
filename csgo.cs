@@ -1,8 +1,8 @@
 using System;
-// 06-12-2019 23:37:26
+// 10-12-2019 03:02:03
 
 namespace blazedumper {
-    public const Int32 timestamp = 15756718468410408
+    public const Int32 timestamp = 15759433235167677
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -98,7 +98,7 @@ namespace blazedumper {
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
         public const Int32 clientstate_net_channel = 0x9C;
         public const Int32 convar_name_hash_table = 0x2F0F8;
-        public const Int32 dwClientState = 0x587DC4;
+        public const Int32 dwClientState = 0x588DA4;
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D40;
         public const Int32 dwClientState_Map = 0x28C;
@@ -115,10 +115,10 @@ namespace blazedumper {
         public const Int32 dwForceJump = 0x51DEF18;
         public const Int32 dwForceLeft = 0x316CDC8;
         public const Int32 dwForceRight = 0x316CDEC;
-        public const Int32 dwGameDir = 0x62E4F0;
+        public const Int32 dwGameDir = 0x6274F0;
         public const Int32 dwGameRulesProxy = 0x52521FC;
         public const Int32 dwGetAllClasses = 0xD4DCA4;
-        public const Int32 dwGlobalVars = 0x587AC8;
+        public const Int32 dwGlobalVars = 0x588AA8;
         public const Int32 dwGlowObjectManager = 0x527CF70;
         public const Int32 dwInput = 0x51868C8;
         public const Int32 dwInterfaceLinkList = 0x8F43F4;
@@ -129,13 +129,13 @@ namespace blazedumper {
         public const Int32 dwRadarBase = 0x517048C;
         public const Int32 dwSensitivity = 0xD2D4FC;
         public const Int32 dwSensitivityPtr = 0xD2D4D0;
-        public const Int32 dwSetClanTag = 0x89AE0;
+        public const Int32 dwSetClanTag = 0x89A90;
         public const Int32 dwViewMatrix = 0x4D2D144;
         public const Int32 dwWeaponTable = 0x518738C;
         public const Int32 dwWeaponTableIndex = 0x323C;
         public const Int32 dwYawPtr = 0xD2D2C0;
         public const Int32 dwZoomSensitivityRatioPtr = 0xD324E0;
-        public const Int32 dwbSendPackets = 0xD32DA;
+        public const Int32 dwbSendPackets = 0xD327A;
         public const Int32 dwppDirect3DDevice9 = 0xA6030;
         public const Int32 force_update_spectator_glow = 0x397E12;
         public const Int32 interface_engine_cvar = 0x3E9EC;
@@ -144,7 +144,7 @@ namespace blazedumper {
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x5170728;
         public const Int32 m_yawClassPtr = 0xD2D2C0;
-        public const Int32 model_ambient_min = 0x58ADE4;
+        public const Int32 model_ambient_min = 0x58BDC4;
         public const Int32 set_abs_angles = 0x1CEA80;
         public const Int32 set_abs_origin = 0x1CE8C0;
     }
