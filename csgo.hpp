@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 12-12-2019 04:17:38
+// 13-12-2019 00:44:39
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15761206588216086
+constexpr ::std::int64_t timestamp = 15761942796666668
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -129,13 +129,13 @@ constexpr ::std::ptrdiff_t dwPlayerResource = 0x316B16C;
 constexpr ::std::ptrdiff_t dwRadarBase = 0x517048C;
 constexpr ::std::ptrdiff_t dwSensitivity = 0xD2D4FC;
 constexpr ::std::ptrdiff_t dwSensitivityPtr = 0xD2D4D0;
-constexpr ::std::ptrdiff_t dwSetClanTag = 0x89AA0;
+constexpr ::std::ptrdiff_t dwSetClanTag = 0x89B20;
 constexpr ::std::ptrdiff_t dwViewMatrix = 0x4D2D144;
 constexpr ::std::ptrdiff_t dwWeaponTable = 0x518738C;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x323C;
 constexpr ::std::ptrdiff_t dwYawPtr = 0xD2D2C0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD324E0;
-constexpr ::std::ptrdiff_t dwbSendPackets = 0xD327A;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xD330A;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA6030;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x397E12;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
