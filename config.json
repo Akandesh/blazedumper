@@ -855,6 +855,11 @@
       "prop": "m_flTimerLength",
       "table": "DT_PlantedC4"
     },
+	{
+      "name": "m_flDefuseLength",
+      "prop": "m_flDefuseLength",
+      "table": "DT_PlantedC4"
+    },
     {
       "name": "m_flDefuseLength",
       "prop": "m_flDefuseLength",
