@@ -865,6 +865,11 @@
       "prop": "m_flDefuseCountDown",
       "table": "DT_PlantedC4"
     },
+	{
+      "name": "m_hBombDefuser",
+      "prop": "m_hBombDefuser",
+      "table": "DT_PlantedC4"
+    },
     {
       "name": "cs_gamerules_data",
       "prop": "cs_gamerules_data",

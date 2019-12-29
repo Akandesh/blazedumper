@@ -1,8 +1,8 @@
 using System;
-// 21-12-2019 02:50:43
+// 29-12-2019 18:11:10
 
 namespace blazedumper {
-    public const Int32 timestamp = 15768930438863287
+    public const Int32 timestamp = 15776394708795723
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -51,6 +51,7 @@ namespace blazedumper {
         public const Int32 m_flSimulationTime = 0x268;
         public const Int32 m_flTimerLength = 0x2994;
         public const Int32 m_hActiveWeapon = 0x2EF8;
+        public const Int32 m_hBombDefuser = 0x29B4;
         public const Int32 m_hMyWeapons = 0x2DF8;
         public const Int32 m_hObserverTarget = 0x3388;
         public const Int32 m_hOwner = 0x29CC;

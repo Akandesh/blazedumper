@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 21-12-2019 02:50:43
+// 29-12-2019 18:11:10
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15768930438841663
+constexpr ::std::int64_t timestamp = 15776394708767587
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -52,6 +52,7 @@ constexpr ::std::ptrdiff_t m_flNextPrimaryAttack = 0x3218;
 constexpr ::std::ptrdiff_t m_flSimulationTime = 0x268;
 constexpr ::std::ptrdiff_t m_flTimerLength = 0x2994;
 constexpr ::std::ptrdiff_t m_hActiveWeapon = 0x2EF8;
+constexpr ::std::ptrdiff_t m_hBombDefuser = 0x29B4;
 constexpr ::std::ptrdiff_t m_hMyWeapons = 0x2DF8;
 constexpr ::std::ptrdiff_t m_hObserverTarget = 0x3388;
 constexpr ::std::ptrdiff_t m_hOwner = 0x29CC;

@@ -46,6 +46,7 @@
         "m_flSimulationTime": 616,
         "m_flTimerLength": 10644,
         "m_hActiveWeapon": 12024,
+        "m_hBombDefuser": 10676,
         "m_hMyWeapons": 11768,
         "m_hObserverTarget": 13192,
         "m_hOwner": 10700,
