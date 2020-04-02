@@ -1,8 +1,8 @@
 using System;
-// 01-04-2020 02:50:32
+// 03-04-2020 01:43:17
 
 namespace blazedumper {
-    public const Int32 timestamp = 15857022320299372
+    public const Int32 timestamp = 15858709972147944
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -99,7 +99,7 @@ namespace blazedumper {
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
         public const Int32 clientstate_net_channel = 0x9C;
         public const Int32 convar_name_hash_table = 0x2F0F8;
-        public const Int32 dwClientState = 0x589D9C;
+        public const Int32 dwClientState = 0x589DCC;
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D40;
         public const Int32 dwClientState_Map = 0x28C;
@@ -116,13 +116,13 @@ namespace blazedumper {
         public const Int32 dwForceJump = 0x51EB650;
         public const Int32 dwForceLeft = 0x3172F98;
         public const Int32 dwForceRight = 0x3172F8C;
-        public const Int32 dwGameDir = 0x6284F8;
+        public const Int32 dwGameDir = 0x6285F8;
         public const Int32 dwGameRulesProxy = 0x525E92C;
         public const Int32 dwGetAllClasses = 0xD53E6C;
-        public const Int32 dwGlobalVars = 0x589AA0;
+        public const Int32 dwGlobalVars = 0x589AD0;
         public const Int32 dwGlowObjectManager = 0x52898B8;
         public const Int32 dwInput = 0x5192F80;
-        public const Int32 dwInterfaceLinkList = 0x8F8304;
+        public const Int32 dwInterfaceLinkList = 0x8F83F4;
         public const Int32 dwLocalPlayer = 0xD2DB84;
         public const Int32 dwMouseEnable = 0xD33728;
         public const Int32 dwMouseEnablePtr = 0xD336F8;
@@ -145,7 +145,7 @@ namespace blazedumper {
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x5176A08;
         public const Int32 m_yawClassPtr = 0xD33388;
-        public const Int32 model_ambient_min = 0x58CDBC;
+        public const Int32 model_ambient_min = 0x58CDEC;
         public const Int32 set_abs_angles = 0x1CF030;
         public const Int32 set_abs_origin = 0x1CEE70;
     }
