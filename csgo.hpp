@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 22-04-2020 05:43:31
+// 24-04-2020 01:17:48
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15875270120001420
+constexpr ::std::int64_t timestamp = 15876838684451334
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -94,7 +94,7 @@ constexpr ::std::ptrdiff_t m_vecViewOffset = 0x108;
 constexpr ::std::ptrdiff_t m_viewPunchAngle = 0x3020;
 } // namespace netvars
 namespace signatures {
-constexpr ::std::ptrdiff_t clientstate_choked_commands = 0x4D28;
+constexpr ::std::ptrdiff_t clientstate_choked_commands = 0x10680006;
 constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
 constexpr ::std::ptrdiff_t clientstate_last_outgoing_command = 0x4D24;
 constexpr ::std::ptrdiff_t clientstate_net_channel = 0x9C;
@@ -136,7 +136,7 @@ constexpr ::std::ptrdiff_t dwWeaponTable = 0x5195B24;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x325C;
 constexpr ::std::ptrdiff_t dwYawPtr = 0xD35388;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD3A5D0;
-constexpr ::std::ptrdiff_t dwbSendPackets = 0xD3C5A;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xD3CEA;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7030;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3990D2;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;

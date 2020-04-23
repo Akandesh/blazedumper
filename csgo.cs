@@ -1,8 +1,8 @@
 using System;
-// 22-04-2020 05:43:32
+// 24-04-2020 01:17:48
 
 namespace blazedumper {
-    public const Int32 timestamp = 15875270120017025
+    public const Int32 timestamp = 15876838684469497
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -94,7 +94,7 @@ namespace blazedumper {
     }
     public static class signatures
     {
-        public const Int32 clientstate_choked_commands = 0x4D28;
+        public const Int32 clientstate_choked_commands = 0x10680006;
         public const Int32 clientstate_delta_ticks = 0x174;
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
         public const Int32 clientstate_net_channel = 0x9C;
@@ -136,7 +136,7 @@ namespace blazedumper {
         public const Int32 dwWeaponTableIndex = 0x325C;
         public const Int32 dwYawPtr = 0xD35388;
         public const Int32 dwZoomSensitivityRatioPtr = 0xD3A5D0;
-        public const Int32 dwbSendPackets = 0xD3C5A;
+        public const Int32 dwbSendPackets = 0xD3CEA;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
         public const Int32 force_update_spectator_glow = 0x3990D2;
         public const Int32 interface_engine_cvar = 0x3E9EC;
