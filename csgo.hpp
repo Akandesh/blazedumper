@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 04-06-2020 07:49:07
+// 04-06-2020 08:26:08
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15912497470363389
+constexpr ::std::int64_t timestamp = 15912519685441683
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
