@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 02-06-2020 23:02:20
+// 04-06-2020 07:49:07
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15911317402351922
+constexpr ::std::int64_t timestamp = 15912497470363389
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -116,7 +116,7 @@ constexpr ::std::ptrdiff_t dwForceForward = 0x317C76C;
 constexpr ::std::ptrdiff_t dwForceJump = 0x51F4DD8;
 constexpr ::std::ptrdiff_t dwForceLeft = 0x317C6E8;
 constexpr ::std::ptrdiff_t dwForceRight = 0x317C6DC;
-constexpr ::std::ptrdiff_t dwGameDir = 0x6286F8;
+constexpr ::std::ptrdiff_t dwGameDir = 0x628678;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x52680CC;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xD5CF8C;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x589AD8;
@@ -136,7 +136,7 @@ constexpr ::std::ptrdiff_t dwWeaponTable = 0x519D1AC;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x325C;
 constexpr ::std::ptrdiff_t dwYawPtr = 0xD3C398;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD415E0;
-constexpr ::std::ptrdiff_t dwbSendPackets = 0xD3EFA;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xD3ECA;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7030;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x39CD52;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
