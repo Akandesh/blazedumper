@@ -1,8 +1,8 @@
 using System;
-// 05-06-2020 19:55:55
+// 05-06-2020 22:23:17
 
 namespace blazedumper {
-    public const Int32 timestamp = 15913797552493841
+    public const Int32 timestamp = 15913885975496567
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -32,6 +32,9 @@ namespace blazedumper {
         public const Int32 m_bSpotted = 0x93D;
         public const Int32 m_bSpottedByMask = 0x980;
         public const Int32 m_bStartedArming = 0x33F0;
+        public const Int32 m_bUseCustomAutoExposureMax = 0x9D9;
+        public const Int32 m_bUseCustomAutoExposureMin = 0x9D8;
+        public const Int32 m_bUseCustomBloomScale = 0x9DA;
         public const Int32 m_clrRender = 0x70;
         public const Int32 m_dwBoneMatrix = 0x26A8;
         public const Int32 m_fAccuracyPenalty = 0x3330;
@@ -39,6 +42,9 @@ namespace blazedumper {
         public const Int32 m_fRoundStartTime = 0x4C;
         public const Int32 m_fWarmupPeriodEnd = 0x24;
         public const Int32 m_flC4Blow = 0x2990;
+        public const Int32 m_flCustomAutoExposureMax = 0x9E0;
+        public const Int32 m_flCustomAutoExposureMin = 0x9DC;
+        public const Int32 m_flCustomBloomScale = 0x9E4;
         public const Int32 m_flDefuseCountDown = 0x29AC;
         public const Int32 m_flDefuseLength = 0x29A8;
         public const Int32 m_flFallbackWear = 0x31D0;
@@ -94,6 +100,8 @@ namespace blazedumper {
     }
     public static class signatures
     {
+        public const Int32 PostProcess = 0x3622C6;
+        public const Int32 anim_overlays = 0x2980;
         public const Int32 clientstate_choked_commands = 0x4D28;
         public const Int32 clientstate_delta_ticks = 0x174;
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
@@ -138,10 +146,12 @@ namespace blazedumper {
         public const Int32 dwZoomSensitivityRatioPtr = 0xD415E0;
         public const Int32 dwbSendPackets = 0xD3ECA;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
+        public const Int32 find_hud_element = 0x6EEFFED0;
         public const Int32 force_update_spectator_glow = 0x39CD52;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3A9550;
         public const Int32 m_bDormant = 0xED;
+        public const Int32 m_flSpawnTime = 0xA360;
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x5180100;
         public const Int32 m_yawClassPtr = 0xD3C398;
