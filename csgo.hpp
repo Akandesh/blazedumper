@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 05-06-2020 22:23:17
+// 06-06-2020 02:04:54
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 15913885975478461
+constexpr ::std::int64_t timestamp = 15914018945054715
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -100,7 +100,6 @@ constexpr ::std::ptrdiff_t m_vecViewOffset = 0x108;
 constexpr ::std::ptrdiff_t m_viewPunchAngle = 0x3020;
 } // namespace netvars
 namespace signatures {
-constexpr ::std::ptrdiff_t PostProcess = 0x3622C6;
 constexpr ::std::ptrdiff_t anim_overlays = 0x2980;
 constexpr ::std::ptrdiff_t clientstate_choked_commands = 0x4D28;
 constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
@@ -151,7 +150,7 @@ constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x39CD52;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3A9550;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
-constexpr ::std::ptrdiff_t m_flSpawnTime = 0xA360;
+constexpr ::std::ptrdiff_t m_flSpawnTime = 0x0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x5180100;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD3C398;

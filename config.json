@@ -525,16 +525,6 @@
       "module": "client.dll",
       "pattern": "74 07 8B CB E8 ? ? ? ? 83 C7 10"
     },
-	{
-      "name": "PostProcess",
-      "extra": 0,
-      "relative": true,
-      "module": "client.dll",
-      "offsets": [
-              
-      ],
-      "pattern": "80 3D ? ? ? ? ? 53 56 57 0F 85"
-    },
     {
       "name": "anim_overlays",
       "extra": 0,

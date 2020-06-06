@@ -1,8 +1,8 @@
 using System;
-// 05-06-2020 22:23:17
+// 06-06-2020 02:04:54
 
 namespace blazedumper {
-    public const Int32 timestamp = 15913885975496567
+    public const Int32 timestamp = 15914018945072804
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -100,7 +100,6 @@ namespace blazedumper {
     }
     public static class signatures
     {
-        public const Int32 PostProcess = 0x3622C6;
         public const Int32 anim_overlays = 0x2980;
         public const Int32 clientstate_choked_commands = 0x4D28;
         public const Int32 clientstate_delta_ticks = 0x174;
@@ -151,7 +150,7 @@ namespace blazedumper {
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3A9550;
         public const Int32 m_bDormant = 0xED;
-        public const Int32 m_flSpawnTime = 0xA360;
+        public const Int32 m_flSpawnTime = 0x0;
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x5180100;
         public const Int32 m_yawClassPtr = 0xD3C398;

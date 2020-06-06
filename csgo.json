@@ -94,7 +94,6 @@
         "m_viewPunchAngle": 12320
     },
     "signatures": {
-        "PostProcess": 3547846,
         "anim_overlays": 10624,
         "clientstate_choked_commands": 19752,
         "clientstate_delta_ticks": 372,
@@ -145,7 +144,7 @@
         "interface_engine_cvar": 256492,
         "is_c4_owner": 3839312,
         "m_bDormant": 237,
-        "m_flSpawnTime": 41824,
+        "m_flSpawnTime": 0,
         "m_pStudioHdr": 10572,
         "m_pitchClassPtr": 85459200,
         "m_yawClassPtr": 13878168,
