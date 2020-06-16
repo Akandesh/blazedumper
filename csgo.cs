@@ -1,8 +1,8 @@
 using System;
-// 15-06-2020 23:52:26
+// 16-06-2020 11:14:16
 
 namespace blazedumper {
-    public const Int32 timestamp = 15922579462443469
+    public const Int32 timestamp = 15922988568397257
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -135,22 +135,22 @@ namespace blazedumper {
         public const Int32 dwMouseEnablePtr = 0xD3F760;
         public const Int32 dwPlayerResource = 0x317DB00;
         public const Int32 dwRadarBase = 0x5182F8C;
-        public const Int32 dwSensitivity = 0xD509EC;
-        public const Int32 dwSensitivityPtr = 0xD509C0;
+        public const Int32 dwSensitivity = 0xD3F62C;
+        public const Int32 dwSensitivityPtr = 0xD3F600;
         public const Int32 dwSetClanTag = 0x89FB0;
         public const Int32 dwViewMatrix = 0x4D3FB64;
         public const Int32 dwWeaponTable = 0x51A0288;
         public const Int32 dwWeaponTableIndex = 0x325C;
-        public const Int32 dwYawPtr = 0x0;
+        public const Int32 dwYawPtr = 0xD3F3F0;
         public const Int32 dwZoomSensitivityRatioPtr = 0xD44638;
         public const Int32 dwbSendPackets = 0xD415A;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
-        public const Int32 find_hud_element = 0x62A01B30;
+        public const Int32 find_hud_element = 0x62901B30;
         public const Int32 force_update_spectator_glow = 0x3A06E2;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3AD190;
         public const Int32 m_bDormant = 0xED;
-        public const Int32 m_flSpawnTime = 0x0;
+        public const Int32 m_flSpawnTime = 0xA370;
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x5183228;
         public const Int32 m_yawClassPtr = 0xD3F3F0;
