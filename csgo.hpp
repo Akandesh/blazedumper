@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 05-03-2021 10:25:45
+// 09-03-2021 16:18:42
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 16149363456177223
+constexpr ::std::int64_t timestamp = 16153031225057362
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB378;
@@ -145,12 +145,12 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xD90AE0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD95D80;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD745A;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7050;
-constexpr ::std::ptrdiff_t find_hud_element = 0x5676E320;
+constexpr ::std::ptrdiff_t find_hud_element = 0x6CE0E320;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3AD962;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3BA430;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
-constexpr ::std::ptrdiff_t m_flSpawnTime = 0x0;
+constexpr ::std::ptrdiff_t m_flSpawnTime = 0xA370;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x51D7F38;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD90AE0;
