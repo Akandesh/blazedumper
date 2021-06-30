@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 10-06-2021 14:07:34
+// 30-06-2021 13:51:10
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 16233268545807845
+constexpr ::std::int64_t timestamp = 16250538708824514
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB37C;
@@ -150,7 +150,7 @@ constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3AFECA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3BCB10;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
-constexpr ::std::ptrdiff_t m_flSpawnTime = 0xA370;
+constexpr ::std::ptrdiff_t m_flSpawnTime = 0x0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x51D7170;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD8EA78;

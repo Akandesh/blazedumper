@@ -1,8 +1,8 @@
 using System;
-// 10-06-2021 14:07:34
+// 30-06-2021 13:51:10
 
 namespace blazedumper {
-    public const Int32 timestamp = 16233268545855065
+    public const Int32 timestamp = 16250538708850994
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -150,7 +150,7 @@ namespace blazedumper {
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3BCB10;
         public const Int32 m_bDormant = 0xED;
-        public const Int32 m_flSpawnTime = 0xA370;
+        public const Int32 m_flSpawnTime = 0x0;
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x51D7170;
         public const Int32 m_yawClassPtr = 0xD8EA78;
