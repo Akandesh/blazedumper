@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 15-07-2021 23:56:08
+// 16-07-2021 00:11:24
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 16263861684539192
+constexpr ::std::int64_t timestamp = 16263870847854038
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB37C;
@@ -114,7 +114,7 @@ constexpr ::std::ptrdiff_t dwClientState_MapDirectory = 0x188;
 constexpr ::std::ptrdiff_t dwClientState_MaxPlayer = 0x388;
 constexpr ::std::ptrdiff_t dwClientState_PlayerInfo = 0x52C0;
 constexpr ::std::ptrdiff_t dwClientState_State = 0x108;
-constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x0;
+constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x4D90;
 constexpr ::std::ptrdiff_t dwEntityList = 0x4DA21AC;
 constexpr ::std::ptrdiff_t dwForceAttack = 0x31D26EC;
 constexpr ::std::ptrdiff_t dwForceAttack2 = 0x31D26F8;
@@ -150,7 +150,7 @@ constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3AF66A;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3BC2C0;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
-constexpr ::std::ptrdiff_t m_flSpawnTime = 0xA370;
+constexpr ::std::ptrdiff_t m_flSpawnTime = 0x0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x294C;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x51D71C0;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xD8EA78;
