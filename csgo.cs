@@ -1,8 +1,8 @@
 using System;
-// 22-09-2021 11:52:07
+// 22-09-2021 18:01:57
 
 namespace blazedumper {
-    public const Int32 timestamp = 16323043271379056
+    public const Int32 timestamp = 16323265176692719
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;

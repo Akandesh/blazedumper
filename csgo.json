@@ -108,7 +108,7 @@
         "dwClientState_MaxPlayer": 904,
         "dwClientState_PlayerInfo": 21184,
         "dwClientState_State": 264,
-        "dwClientState_ViewAngles": 19856,
+        "dwClientState_ViewAngles": 0,
         "dwEntityList": 81511940,
         "dwForceAttack": 52349828,
         "dwForceAttack2": 52349840,
