@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 23-09-2021 01:29:07
+// 23-09-2021 10:39:42
 
 namespace blazedumper {
 namespace netvars {
@@ -113,7 +113,7 @@ constexpr ::std::ptrdiff_t dwClientState_MapDirectory = 0x188;
 constexpr ::std::ptrdiff_t dwClientState_MaxPlayer = 0x388;
 constexpr ::std::ptrdiff_t dwClientState_PlayerInfo = 0x52C0;
 constexpr ::std::ptrdiff_t dwClientState_State = 0x108;
-constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x0;
+constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x4D90;
 constexpr ::std::ptrdiff_t dwEntityList = 0x4DBC5B4;
 constexpr ::std::ptrdiff_t dwForceAttack = 0x31ECB34;
 constexpr ::std::ptrdiff_t dwForceAttack2 = 0x31ECB40;

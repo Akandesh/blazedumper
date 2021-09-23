@@ -1,5 +1,5 @@
 using System;
-// 23-09-2021 01:29:07
+// 23-09-2021 10:39:42
 
 namespace blazedumper {
     public static class netvars
@@ -113,7 +113,7 @@ namespace blazedumper {
         public const Int32 dwClientState_MaxPlayer = 0x388;
         public const Int32 dwClientState_PlayerInfo = 0x52C0;
         public const Int32 dwClientState_State = 0x108;
-        public const Int32 dwClientState_ViewAngles = 0x0;
+        public const Int32 dwClientState_ViewAngles = 0x4D90;
         public const Int32 dwEntityList = 0x4DBC5B4;
         public const Int32 dwForceAttack = 0x31ECB34;
         public const Int32 dwForceAttack2 = 0x31ECB40;
