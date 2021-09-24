@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 24-09-2021 01:56:38
+// 24-09-2021 07:45:54
 
 namespace blazedumper {
 namespace netvars {
@@ -149,7 +149,7 @@ constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3B38CA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3C0820;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
-constexpr ::std::ptrdiff_t m_flSpawnTime = 0x103C0;
+constexpr ::std::ptrdiff_t m_flSpawnTime = 0x0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x2950;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x51F15C8;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xDA7BF8;

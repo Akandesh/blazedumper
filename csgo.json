@@ -144,7 +144,7 @@
         "interface_engine_cvar": 256492,
         "is_c4_owner": 3934240,
         "m_bDormant": 237,
-        "m_flSpawnTime": 66496,
+        "m_flSpawnTime": 0,
         "m_pStudioHdr": 10576,
         "m_pitchClassPtr": 85923272,
         "m_yawClassPtr": 14318584,
