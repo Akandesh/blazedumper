@@ -5,8 +5,7 @@
 
 ### Last Update 13-10-2021 19:07:01
 ## Issues
-### Signatures
- - dwClientState_ViewAngles
+
 ### Netvars
  - cs_gamerules_data
 
