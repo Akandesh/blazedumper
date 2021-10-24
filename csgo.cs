@@ -1,5 +1,5 @@
 using System;
-// 24-10-2021 23:39:27
+// 24-10-2021 23:56:29
 
 namespace blazedumper {
     public static class netvars
@@ -149,7 +149,7 @@ namespace blazedumper {
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3C0E50;
         public const Int32 m_bDormant = 0xED;
-        public const Int32 m_flSpawnTime = 0x0;
+        public const Int32 m_flSpawnTime = 0x103C0;
         public const Int32 m_pStudioHdr = 0x2950;
         public const Int32 m_pitchClassPtr = 0x51F47A0;
         public const Int32 m_yawClassPtr = 0xDAABF8;
