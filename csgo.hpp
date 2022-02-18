@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 18-02-2022 02:57:28
+// 18-02-2022 20:22:37
 
 namespace blazedumper {
 namespace netvars {
@@ -105,7 +105,7 @@ constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
 constexpr ::std::ptrdiff_t clientstate_last_outgoing_command = 0x4D2C;
 constexpr ::std::ptrdiff_t clientstate_net_channel = 0x9C;
 constexpr ::std::ptrdiff_t convar_name_hash_table = 0x2F0F8;
-constexpr ::std::ptrdiff_t dwClientState = 0x58BFC4;
+constexpr ::std::ptrdiff_t dwClientState = 0x58CFC4;
 constexpr ::std::ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
 constexpr ::std::ptrdiff_t dwClientState_IsHLTV = 0x4D48;
 constexpr ::std::ptrdiff_t dwClientState_Map = 0x28C;
@@ -122,10 +122,10 @@ constexpr ::std::ptrdiff_t dwForceForward = 0x32013B0;
 constexpr ::std::ptrdiff_t dwForceJump = 0x527AD90;
 constexpr ::std::ptrdiff_t dwForceLeft = 0x3201338;
 constexpr ::std::ptrdiff_t dwForceRight = 0x3201344;
-constexpr ::std::ptrdiff_t dwGameDir = 0x62A880;
+constexpr ::std::ptrdiff_t dwGameDir = 0x62B880;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x52EDDEC;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xDDF17C;
-constexpr ::std::ptrdiff_t dwGlobalVars = 0x58BCC8;
+constexpr ::std::ptrdiff_t dwGlobalVars = 0x58CCC8;
 constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x5319260;
 constexpr ::std::ptrdiff_t dwInput = 0x5222440;
 constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x967FB4;
@@ -153,7 +153,7 @@ constexpr ::std::ptrdiff_t m_flSpawnTime = 0x103C0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x2950;
 constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x5205E80;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xDBAF48;
-constexpr ::std::ptrdiff_t model_ambient_min = 0x58F03C;
+constexpr ::std::ptrdiff_t model_ambient_min = 0x59003C;
 constexpr ::std::ptrdiff_t set_abs_angles = 0x1E5330;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1E5170;
 } // namespace signatures
