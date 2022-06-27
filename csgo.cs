@@ -1,5 +1,5 @@
 using System;
-// 24-06-2022 01:09:27
+// 27-06-2022 20:53:43
 
 namespace blazedumper {
     public static class netvars
@@ -144,7 +144,7 @@ namespace blazedumper {
         public const Int32 dwZoomSensitivityRatioPtr = 0xDCB620;
         public const Int32 dwbSendPackets = 0xD8422;
         public const Int32 dwppDirect3DDevice9 = 0xA6050;
-        public const Int32 find_hud_element = 0x69BC59D0;
+        public const Int32 find_hud_element = 0x6BFC59D0;
         public const Int32 force_update_spectator_glow = 0x3BDCEA;
         public const Int32 interface_engine_cvar = 0x3EA3C;
         public const Int32 is_c4_owner = 0x3CAD70;
