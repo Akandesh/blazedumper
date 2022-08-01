@@ -1,5 +1,5 @@
 using System;
-// 13-07-2022 00:13:53
+// 02-08-2022 01:30:43
 
 namespace blazedumper {
     public static class netvars
@@ -119,14 +119,14 @@ namespace blazedumper {
         public const Int32 dwForceAttack2 = 0x320BDD4;
         public const Int32 dwForceBackward = 0x320BE10;
         public const Int32 dwForceForward = 0x320BE04;
-        public const Int32 dwForceJump = 0x52858A0;
+        public const Int32 dwForceJump = 0x52858DC;
         public const Int32 dwForceLeft = 0x320BE1C;
         public const Int32 dwForceRight = 0x320BE28;
         public const Int32 dwGameDir = 0x62B900;
-        public const Int32 dwGameRulesProxy = 0x52F90BC;
+        public const Int32 dwGameRulesProxy = 0x52F910C;
         public const Int32 dwGetAllClasses = 0xDE9C9C;
         public const Int32 dwGlobalVars = 0x58CCE0;
-        public const Int32 dwGlowObjectManager = 0x5324590;
+        public const Int32 dwGlowObjectManager = 0x53245E8;
         public const Int32 dwInput = 0x522CED0;
         public const Int32 dwInterfaceLinkList = 0x96EF44;
         public const Int32 dwLocalPlayer = 0xDBF4BC;
@@ -144,10 +144,10 @@ namespace blazedumper {
         public const Int32 dwZoomSensitivityRatioPtr = 0xDCB610;
         public const Int32 dwbSendPackets = 0xD8452;
         public const Int32 dwppDirect3DDevice9 = 0xA6050;
-        public const Int32 find_hud_element = 0x6BFC59D0;
-        public const Int32 force_update_spectator_glow = 0x3BE2BA;
+        public const Int32 find_hud_element = 0x6DC75A80;
+        public const Int32 force_update_spectator_glow = 0x3BE35A;
         public const Int32 interface_engine_cvar = 0x3EA3C;
-        public const Int32 is_c4_owner = 0x3CB320;
+        public const Int32 is_c4_owner = 0x3CB3D0;
         public const Int32 m_bDormant = 0xED;
         public const Int32 m_flSpawnTime = 0x103C0;
         public const Int32 m_pStudioHdr = 0x2950;
