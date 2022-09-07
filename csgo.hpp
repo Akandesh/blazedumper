@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 30-08-2022 02:40:15
+// 08-09-2022 01:09:05
 
 namespace blazedumper {
 namespace netvars {
@@ -126,7 +126,7 @@ constexpr ::std::ptrdiff_t dwGameDir = 0x62B900;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x52FB12C;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xDEBCAC;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x58CCE0;
-constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x53265D0;
+constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x5326620;
 constexpr ::std::ptrdiff_t dwInput = 0x522EEF0;
 constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x970754;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDC14CC;
@@ -142,12 +142,12 @@ constexpr ::std::ptrdiff_t dwWeaponTable = 0x522F9B4;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x326C;
 constexpr ::std::ptrdiff_t dwYawPtr = 0xDC6E38;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xDCD620;
-constexpr ::std::ptrdiff_t dwbSendPackets = 0xD85A2;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xD8622;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA6050;
-constexpr ::std::ptrdiff_t find_hud_element = 0x6DC75C30;
-constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BE47A;
+constexpr ::std::ptrdiff_t find_hud_element = 0x6DBD5CF0;
+constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BE59A;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3EA3C;
-constexpr ::std::ptrdiff_t is_c4_owner = 0x3CB4E0;
+constexpr ::std::ptrdiff_t is_c4_owner = 0x3CB620;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
 constexpr ::std::ptrdiff_t m_flSpawnTime = 0x103C0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x2950;
