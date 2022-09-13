@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 08-09-2022 01:09:05
+// 14-09-2022 00:51:01
 
 namespace blazedumper {
 namespace netvars {
@@ -128,7 +128,7 @@ constexpr ::std::ptrdiff_t dwGetAllClasses = 0xDEBCAC;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x58CCE0;
 constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x5326620;
 constexpr ::std::ptrdiff_t dwInput = 0x522EEF0;
-constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x970754;
+constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x9708A4;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDC14CC;
 constexpr ::std::ptrdiff_t dwMouseEnable = 0xDC71D8;
 constexpr ::std::ptrdiff_t dwMouseEnablePtr = 0xDC71A8;
@@ -145,9 +145,9 @@ constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xDCD620;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD8622;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA6050;
 constexpr ::std::ptrdiff_t find_hud_element = 0x6DBD5CF0;
-constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BE59A;
+constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BE5EA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3EA3C;
-constexpr ::std::ptrdiff_t is_c4_owner = 0x3CB620;
+constexpr ::std::ptrdiff_t is_c4_owner = 0x3CB670;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
 constexpr ::std::ptrdiff_t m_flSpawnTime = 0x103C0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x2950;

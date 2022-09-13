@@ -1,5 +1,5 @@
 using System;
-// 08-09-2022 01:09:05
+// 14-09-2022 00:51:01
 
 namespace blazedumper {
     public static class netvars
@@ -128,7 +128,7 @@ namespace blazedumper {
         public const Int32 dwGlobalVars = 0x58CCE0;
         public const Int32 dwGlowObjectManager = 0x5326620;
         public const Int32 dwInput = 0x522EEF0;
-        public const Int32 dwInterfaceLinkList = 0x970754;
+        public const Int32 dwInterfaceLinkList = 0x9708A4;
         public const Int32 dwLocalPlayer = 0xDC14CC;
         public const Int32 dwMouseEnable = 0xDC71D8;
         public const Int32 dwMouseEnablePtr = 0xDC71A8;
@@ -145,9 +145,9 @@ namespace blazedumper {
         public const Int32 dwbSendPackets = 0xD8622;
         public const Int32 dwppDirect3DDevice9 = 0xA6050;
         public const Int32 find_hud_element = 0x6DBD5CF0;
-        public const Int32 force_update_spectator_glow = 0x3BE59A;
+        public const Int32 force_update_spectator_glow = 0x3BE5EA;
         public const Int32 interface_engine_cvar = 0x3EA3C;
-        public const Int32 is_c4_owner = 0x3CB620;
+        public const Int32 is_c4_owner = 0x3CB670;
         public const Int32 m_bDormant = 0xED;
         public const Int32 m_flSpawnTime = 0x103C0;
         public const Int32 m_pStudioHdr = 0x2950;
