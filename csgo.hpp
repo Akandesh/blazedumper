@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 28-09-2022 00:51:42
+// 01-10-2022 00:18:14
 
 namespace blazedumper {
 namespace netvars {
@@ -115,20 +115,20 @@ constexpr ::std::ptrdiff_t dwClientState_PlayerInfo = 0x52C0;
 constexpr ::std::ptrdiff_t dwClientState_State = 0x108;
 constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x4D90;
 constexpr ::std::ptrdiff_t dwEntityList = 0x4DDD93C;
-constexpr ::std::ptrdiff_t dwForceAttack = 0x320DE5C;
-constexpr ::std::ptrdiff_t dwForceAttack2 = 0x320DE68;
-constexpr ::std::ptrdiff_t dwForceBackward = 0x320DE08;
-constexpr ::std::ptrdiff_t dwForceForward = 0x320DE8C;
+constexpr ::std::ptrdiff_t dwForceAttack = 0x320DE20;
+constexpr ::std::ptrdiff_t dwForceAttack2 = 0x320DE2C;
+constexpr ::std::ptrdiff_t dwForceBackward = 0x320DE74;
+constexpr ::std::ptrdiff_t dwForceForward = 0x320DE68;
 constexpr ::std::ptrdiff_t dwForceJump = 0x528791C;
-constexpr ::std::ptrdiff_t dwForceLeft = 0x320DE14;
-constexpr ::std::ptrdiff_t dwForceRight = 0x320DE20;
+constexpr ::std::ptrdiff_t dwForceLeft = 0x320DE80;
+constexpr ::std::ptrdiff_t dwForceRight = 0x320DE8C;
 constexpr ::std::ptrdiff_t dwGameDir = 0x62B900;
 constexpr ::std::ptrdiff_t dwGameRulesProxy = 0x52FB14C;
 constexpr ::std::ptrdiff_t dwGetAllClasses = 0xDEBCAC;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x58CCE0;
-constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x5326638;
+constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x5326640;
 constexpr ::std::ptrdiff_t dwInput = 0x522EF10;
-constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x970944;
+constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x9709C4;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDC14CC;
 constexpr ::std::ptrdiff_t dwMouseEnable = 0xDC71D8;
 constexpr ::std::ptrdiff_t dwMouseEnablePtr = 0xDC71A8;
@@ -136,7 +136,7 @@ constexpr ::std::ptrdiff_t dwPlayerResource = 0x320C1A0;
 constexpr ::std::ptrdiff_t dwRadarBase = 0x52126B4;
 constexpr ::std::ptrdiff_t dwSensitivity = 0xDC7074;
 constexpr ::std::ptrdiff_t dwSensitivityPtr = 0xDC7048;
-constexpr ::std::ptrdiff_t dwSetClanTag = 0x8A410;
+constexpr ::std::ptrdiff_t dwSetClanTag = 0x8A420;
 constexpr ::std::ptrdiff_t dwViewMatrix = 0x4DCF254;
 constexpr ::std::ptrdiff_t dwWeaponTable = 0x522F9D4;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x326C;
@@ -144,8 +144,8 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xDC6E38;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xDCD620;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD8632;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA6050;
-constexpr ::std::ptrdiff_t find_hud_element = 0x6DBD5CF0;
-constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BE5EA;
+constexpr ::std::ptrdiff_t find_hud_element = 0x6DBD5D20;
+constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BE5FA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3EA3C;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3CB670;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
