@@ -137,7 +137,7 @@
         "dwWeaponTableIndex": 12908,
         "dwYawPtr": 0,
         "dwZoomSensitivityRatioPtr": 0,
-        "dwbSendPackets": 905234,
+        "dwbSendPackets": 905330,
         "dwppDirect3DDevice9": 680640,
         "find_hud_element": 1854340048,
         "force_update_spectator_glow": 4035018,

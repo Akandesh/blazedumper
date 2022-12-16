@@ -1,5 +1,5 @@
 using System;
-// 14-12-2022 01:00:13
+// 17-12-2022 00:16:56
 
 namespace blazedumper {
     public static class netvars
@@ -142,7 +142,7 @@ namespace blazedumper {
         public const Int32 dwWeaponTableIndex = 0x326C;
         public const Int32 dwYawPtr = 0x0;
         public const Int32 dwZoomSensitivityRatioPtr = 0x0;
-        public const Int32 dwbSendPackets = 0xDD012;
+        public const Int32 dwbSendPackets = 0xDD072;
         public const Int32 dwppDirect3DDevice9 = 0xA62C0;
         public const Int32 find_hud_element = 0x6E86FBD0;
         public const Int32 force_update_spectator_glow = 0x3D91CA;
