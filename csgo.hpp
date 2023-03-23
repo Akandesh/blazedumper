@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-// 23-03-2023 02:09:34
+// 23-03-2023 06:04:01
 
 namespace blazedumper {
 namespace netvars {
@@ -144,7 +144,7 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0x0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0x0;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xDD2B2;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA62C0;
-constexpr ::std::ptrdiff_t find_hud_element = 0x6C890090;
+constexpr ::std::ptrdiff_t find_hud_element = 0x6C760090;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3D96FA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3FA9C;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3E6F10;
