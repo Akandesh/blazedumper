@@ -3,7 +3,7 @@
 🚀 Up to date offsets for Counter-Strike: Global Offensive. Automatically kept up to date thanks to [csgo_auto_dumper](https://github.com/Akandesh/csgo_auto_dumper).
 
 
-### Last Update 25-03-2023 00:27:48
+### Last Update 25-03-2023 02:25:21
 ## Issues
  - None! :D
 
