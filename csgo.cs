@@ -1,5 +1,5 @@
 using System;
-// 03-09-2023 19:44:16
+// 06-09-2023 00:27:50
 
 namespace blazedumper {
     public static class netvars
